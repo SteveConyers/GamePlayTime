@@ -1,0 +1,18 @@
+.root
+{
+	-fx-background-color: green;
+}
+
+.button
+{
+	-fx-background-color: red;
+	-fx-font-weight: bold;
+}
+
+.label
+{
+	-fx-font-family: Ariel;
+	-fx-font-style: Italic;
+	-fx-font-size: 14pt;
+	-fx-text-fill: blue;
+}
